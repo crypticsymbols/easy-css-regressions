@@ -18,6 +18,7 @@ To regenerate the image and use the new, different rendering as the correct vers
 
 ## Todo
 
+- Option (or default) to track screen resolution in the storage key.
 - See if there's a way to support other drivers like selenium and chromedriver. As far as I can tell, only poltergeist supports element-level screenshots, and it's much easier to ensure mock text and images don't change from spec to spec when you're not talking about the entire page.
 - Provide a setting to override specific images or text by selector to a default value. Random lipsum will fail specs, because it's visually different.
 
