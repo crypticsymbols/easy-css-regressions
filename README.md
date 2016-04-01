@@ -55,4 +55,4 @@ Awesome! Yes. Write specs. Thanks!
 
 ## Support
 
-If you're having issues, I'd love the help improving this gem. But please remember I'm just one guy and I'm usually busy or sleepy. Occasionally, I'm just apathetic. There really isn't much code here, so try to dig a little bit first.
+If you're having issues, I'd love your feedback and help improving this gem. But please remember I'm just one guy and I'm usually busy or sleepy. Occasionally, I'm just apathetic. There really isn't much code here, so try to dig a little bit first.
